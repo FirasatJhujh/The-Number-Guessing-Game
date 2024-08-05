@@ -44,7 +44,7 @@ class Number_Guessing_Game():
         self.root.title("Number Guessing Game")
         self.root.configure(bg="#ffffff")
         self.root.resizable(False, False)
-        self.root.iconbitmap("icon.ico")
+        self.root.iconbitmap("C:\\Users\\Firasat ali jhuih\\Desktop\Projects\\Guess Number\\Iamges\\icon.ico")
 
         # ========================== Main frame as mainfrm ======================
         self.mainfrm = ctk.CTkFrame(self.root, fg_color="white")
